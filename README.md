@@ -16,11 +16,7 @@
  └──────────────────────────────────────────────────────────────┘
 ```
 
-![AI-Assisted Security](https://img.shields.io/badge/AI--Assisted-Security-00D1FF?style=flat-square&labelColor=0B1426)
-![Automation](https://img.shields.io/badge/Automation-Enabled-00D1FF?style=flat-square&labelColor=0B1426)
-![Focus](https://img.shields.io/badge/Focus-AppSec%20Research-00D1FF?style=flat-square&labelColor=0B1426)
-![Language](https://img.shields.io/badge/[LANGUAGE]-[VERSION]-00D1FF?style=flat-square&labelColor=0B1426)
-![License](https://img.shields.io/badge/License-MIT-00D1FF?style=flat-square&labelColor=0B1426)
+
 
 > [!NOTE]
 > A research assistant for application-security work. It helps analyze **HTTP traffic**, **source code** and **vulnerability evidence**, so the researcher can spend more time on judgment and less on repetitive review.
