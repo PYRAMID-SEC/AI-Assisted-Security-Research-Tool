@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080F,100:0B1426&height=140&section=header&text=AI-Assisted%20Security%20Research&fontSize=34&fontColor=00D1FF&fontAlignY=45&desc=Traffic%20%C2%B7%20Source%20Code%20%C2%B7%20Evidence&descSize=16&descColor=94A3B8&descAlignY=72" width="100%"/>
 
+<p align="center">
+  <img src="app/assist.png" alt="AI-Assisted Security Research Tool" width="700"/>
+</p>
+
+
+
 ```text
  ┌──────────────────────────────────────────────────────────────┐
  │  CASE FILE  ::  AI-ASSISTED SECURITY RESEARCH TOOL           │
