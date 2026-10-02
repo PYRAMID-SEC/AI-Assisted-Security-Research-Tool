@@ -1,5 +1,12 @@
 <h1 align="center">Security Report Generator</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PYRAMID-SEC/AI-Assisted-Security-Research-Tool/main/app/security-report-generator.png" alt="Security Report Generator" width="700"/>
+</p>
+
+<h1 align="center">PhishGuard ML</h1>
+
+
 <p align="center"><b>From raw findings to a report a triager can act on.</b><br/>
 A lightweight tool that turns security findings into structured vulnerability reports with technical evidence, impact, reproduction steps and remediation.</p>
 
