@@ -37,10 +37,10 @@ This tool puts AI assistance and automation on that review work. It reads the ma
 
 | Module | Input | What it helps with |
 |:------:|:------|:-------------------|
-| 🌐 **Traffic** | HTTP requests and responses | Reviewing captured traffic for interesting behavior and anomalies |
-| 🧬 **Code** | Source code | Reading code for security-relevant patterns and issues |
-| 🗂️ **Evidence** | Findings and proof | Analyzing and organizing vulnerability evidence |
-| ⚙️ **Automation** | Repetitive review steps | Cutting down manual, repeated work |
+|  **Traffic** | HTTP requests and responses | Reviewing captured traffic for interesting behavior and anomalies |
+|  **Code** | Source code | Reading code for security-relevant patterns and issues |
+|  **Evidence** | Findings and proof | Analyzing and organizing vulnerability evidence |
+|  **Automation** | Repetitive review steps | Cutting down manual, repeated work |
 
 <details>
 <summary><b>Detailed capability list</b> (click to expand)</summary>
