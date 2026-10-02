@@ -3,12 +3,7 @@
 <p align="center"><b>From raw findings to a report a triager can act on.</b><br/>
 A lightweight tool that turns security findings into structured vulnerability reports with technical evidence, impact, reproduction steps and remediation.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/[LANGUAGE]-[VERSION]-0B1426?style=for-the-badge&logoColor=00D1FF" alt="Language"/>
-  <img src="https://img.shields.io/badge/Focus-Vulnerability%20Reporting-0B1426?style=for-the-badge&logoColor=00D1FF" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Output-[FORMATS]-0B1426?style=for-the-badge&logoColor=00D1FF" alt="Output formats"/>
-  <img src="https://img.shields.io/badge/License-MIT-0B1426?style=for-the-badge&logoColor=00D1FF" alt="License"/>
-</p>
+
 
 <p align="center">
   <a href="#why">Why</a> ·
