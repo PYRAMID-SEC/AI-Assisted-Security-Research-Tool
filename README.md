@@ -114,13 +114,8 @@ cd AI-Assisted-Security-Research-Tool
 - **Verify everything.** AI can be wrong or overconfident. Reproduce an issue yourself before reporting it.
 - **Disclose responsibly.** Report vulnerabilities to the owner through the proper channel.
 
-## `08` Roadmap
 
-- [ ] [FEATURE]
-- [ ] [FEATURE]
-- [ ] [FEATURE]
-
-## `09` Operator
+## `08` Operator
 
 **Ahmed Tarek Salah**, Cybersecurity Researcher, building at [PYRAMID-SEC](https://github.com/PYRAMID-SEC).
 
